@@ -1,7 +1,7 @@
 // JavaScript
 
-var React = require('react-native');
-var { requireNativeComponent } = React;
+var React = require('react');
+var { requireNativeComponent } = require('react-native');
 
 class VideoPlayer extends React.Component {
   render() {
