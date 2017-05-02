@@ -1,5 +1,5 @@
 #import "VideoPlayerView.h"
-#import "RCTRootView.h"
+#import "React/RCTRootView.h"
 
 @interface VideoPlayerView ()
 
